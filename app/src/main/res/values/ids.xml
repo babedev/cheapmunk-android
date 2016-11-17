@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="avg" type="id"/>
+    <item name="min" type="id"/>
+    <item name="max" type="id"/>
+    <item name="response" type="id"/>
+    <item name="product" type="id"/>
+    <item name="image" type="id"/>
+    <item name="feeds" type="id"/>
+    <item name="swipe" type="id"/>
+</resources>
